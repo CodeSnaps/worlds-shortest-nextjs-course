@@ -2,7 +2,7 @@
 
 This is the probably the shortest Next.js course you'll ever take. Learn how to create a new Next.js app, style it, create pages and routes, fetch data, implement streaming and loading stages, create custom route handlers, custom error pages, and more.
 
-![YouTube Video](https://youtu.be/r0LP0ex33Wc)
+![YouTube Video](https://youtu.be/6lrI6g5l9mM)
 
 ## Here’s What You’ll Learn 👨🏻‍💻
 
